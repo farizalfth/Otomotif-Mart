@@ -43,6 +43,7 @@ class ProductSeeder extends Seeder
                 'updated_at' => now(),
             ],
             // Tambahkan data produk lainnya sesuai kebutuhan
+            //farhan ganteng
         ]);
     }
 }

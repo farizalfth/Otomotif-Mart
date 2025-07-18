@@ -15,6 +15,7 @@ class DatabaseSeeder extends Seeder
         $this->call([
             ProductSeeder::class,
             // Panggil seeder lainnya jika ada
+            //Farhan
         ]);
     }
 }
